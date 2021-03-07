@@ -1,0 +1,35 @@
+body{
+  background-color: rgba(0, 0, 0, 0.753);
+}
+#body {
+  /* border: 1px solid red; */
+  width: 100%;
+  display: inline-flex;
+}
+#body img{
+  margin: 0 0 0 50px;
+}
+.word-1{
+  font-size: 40px;
+  margin: 340px 0 0 200px;
+}
+.word-2{
+  font-size: 40px;
+  margin: 340px 0 0 50px;
+}
+#info {
+ 
+  width: 100%;
+  display: inline-flex;
+}
+.about{
+  
+  margin: 0;
+  padding: 20px;
+}
+
+h1{
+  margin: 10px 0 10px 30px;
+  font-weight: bold;
+  font-size: 50px;
+}
